@@ -1,0 +1,14 @@
+body {
+    background-color: #f7f1e1;
+    font-family: Garamond, Georgia, 'Times New Roman', serif;
+    color: #1f1f1f
+}
+
+p,
+li {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 54px;
+}
