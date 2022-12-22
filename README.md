@@ -1,2 +1,2 @@
 # Recipes Website
-<p>A simple recipes website made using html and css. Incorporates use of links, lists, images, and other basic html and css.</p>
+<p>A simple recipes website made using HTML and CSS. Incorporates use of links, lists, images, and other basic HTML and CSS.</p>
